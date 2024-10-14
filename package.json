@@ -1,0 +1,14 @@
+{
+  "name": "03",
+  "version": "0.0.1",
+  "description": "node fundamentals",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "armando salamanca ayon",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^17.7.2"
+  }
+}
